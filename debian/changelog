@@ -1,3 +1,14 @@
+node-opener (1.5.2+~1.4.0-1) unstable; urgency=medium
+
+  * Team upload
+  * Fix GitHub tags regex
+  * Update standards version to 4.6.0, no changes needed.
+  * Fix filenamemangle
+  * Update nodejs dependency to nodejs:any
+  * Embed typescript definitions and repack
+
+ -- Yadd <yadd@debian.org>  Sat, 20 Nov 2021 17:02:52 +0100
+
 node-opener (1.5.2-1) unstable; urgency=medium
 
   * Team upload

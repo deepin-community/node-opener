@@ -2,15 +2,20 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: opener
 Upstream-Contact: https://github.com/domenic/opener/issues
 Source: https://github.com/domenic/opener#readme
+ https://registry.npmjs.org/@types/opener
 
 Files: *
 Copyright: 2012–2020 Domenic Denicola <d@domenic.me> (https://domenic.me/)
-License: WTFPL or Expat
+License: Expat or WTFPL
 
 Files: debian/*
 Copyright: 2017 Pirate Praveen <praveen@debian.org>
- 2020 Xavier Guimard <yadd@debian.org>
-License: WTFPL or Expat
+ 2020 Yadd <yadd@debian.org>
+License: Expat or WTFPL
+
+Files: types-*/*
+Copyright: Microsoft Corporation
+License: Expat
 
 License: Expat
  Permission is hereby granted, free of charge, to any person obtaining a copy
